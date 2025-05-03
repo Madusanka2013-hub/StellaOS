@@ -46,6 +46,14 @@ Das System enthält einen **App-Manager**, über den vorinstallierte Programme d
 
 ---
 
+### 🎬 Demo Videos
+
+- [Video 1 ansehen](https://www.youtube.com/watch?v=vM62S5MKWBc)
+- [Video 2 ansehen](https://www.youtube.com/watch?v=KcUHHAOiDZ0)
+- [Video 3 ansehen](https://www.youtube.com/watch?v=qECRFLr1UVA)
+
+---
+
 ### 💡 Hintergrund & Idee
 
 Die ursprüngliche Idee hinter diesem Projekt war es, einen funktionierenden Downloader für die Plattform [`https://aniworld.to`](https://aniworld.to) zu entwickeln. Der Grund dafür war, dass viele der aktuell auf GitHub verfügbaren Tools Probleme beim Herunterladen von VOE-Streams haben. 
