@@ -46,7 +46,34 @@ Das System enthält einen **App-Manager**, über den vorinstallierte Programme d
 
 ---
 
-### ⚠️ Hinweis
+### 💡 Hintergrund & Idee
 
-Ich bin noch **Anfänger in der Python-Entwicklung**. Viele Funktionen sind experimentell, und es können noch **Fehler oder unerwartetes Verhalten** auftreten.  
-Ich freue mich über Feedback, Verbesserungsvorschläge oder Pull Requests!
+Die ursprüngliche Idee hinter diesem Projekt war es, einen funktionierenden Downloader für die Plattform [`https://aniworld.to`](https://aniworld.to) zu entwickeln. Der Grund dafür war, dass viele der aktuell auf GitHub verfügbaren Tools Probleme beim Herunterladen von VOE-Streams haben. 
+
+Das liegt daran, dass VOE kürzlich die Art und Weise geändert hat, wie ihre Videolinks verarbeitet und ausgeliefert werden. Die meisten bestehenden Downloader wurden seitdem nicht aktualisiert und unterstützen weder die neue Struktur von VOE noch andere aktuelle Streaming-Anbieter.
+
+Aus dieser Motivation entstand zuerst der Scraper und der DownloadHelper. Während der Entwicklung kam jedoch die Idee auf, nicht nur ein einzelnes Tool zu bauen, sondern gleich eine offene Plattform zu schaffen:
+
+> 🧩 Ein flexibles System, mit dem die Community eigene Apps entwickeln, austauschen und erweitern kann.
+
+Durch den integrierten App-Manager lassen sich eigene Tools direkt ins System einbinden oder herunterladen. Entwickler:innen können ihre Anwendungen teilen oder mir zukommen lassen – auf Wunsch hoste ich sie zentral, sodass andere Nutzer:innen direkt darauf zugreifen können.
+
+So soll ein gemeinschaftlich nutzbares System entstehen, das offen für Erweiterungen ist – von Downloadern bis hin zu ganz anderen Tools.
+
+---
+
+### 📜 Lizenz & Nutzungshinweis
+
+‼️ Falls du dieses System nutzt oder weiterverbreitest, bist du dazu verpflichtet:
+
+- einen klar sichtbaren Verweis auf diese GitHub-Seite anzugeben  
+- das Projekt unter der Lizenz [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.de.html) zu kennzeichnen  
+- sowie die unten genannten Mitwirkenden korrekt zu nennen
+
+#### 👤 Mitwirkende:
+- Madusanka2013 (Projektmitarbeit, Entwicklungsideen)
+
+Danke, dass du dieses Projekt respektierst und zur weiteren Entwicklung beiträgst!
+
+
+
