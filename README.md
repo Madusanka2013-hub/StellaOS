@@ -23,6 +23,7 @@ pip install selenium-wire
 pip install pillow
 pip install bs4
 pip install setuptools
+pip install blinker==1.7.0
 ```
 
 ### 📁 App-Manager & Beispiel-Apps
